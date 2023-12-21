@@ -51,7 +51,7 @@ export default function Home() {
       <main>
       <About />
       <div className="flex-center mt-10 justify-center justify-items-center h-c-screen">
-      <h1  className="bg-gradient-to-r from-red-200 to-pink-800 text-center text-heading-1/h1 text-red-600">
+      <h1  className="text-center text-gradient-to-r from-red-200 to-pink-800 ">
           Our products
         </h1>
       </div>
