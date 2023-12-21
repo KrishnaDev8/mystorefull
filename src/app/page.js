@@ -50,15 +50,12 @@ export default function Home() {
     // <main className="min-h-screen p-6">
       <main>
       <About />
+    
       <div className="flex-center mt-10 justify-center justify-items-center h-c-screen">
-        <div class="text-5xl font-extrabold ...">
-  <span class="bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500">
-    Hello world
-  </span>
-</div>
-      <!-- <h1  className="text-center text-gradient-to-r from-red-200 to-pink-800 ">
+        
+       <h1  className="text-5xl bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500 ">
           Our products
-        </h1> -->
+        </h1>
       </div>
       <div
         className="mt-10 mr-10 ml-10 grid grid-cols-1 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 
