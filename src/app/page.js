@@ -52,7 +52,7 @@ export default function Home() {
       <About />
     
       <div className="flex-center mt-10 justify-center justify-items-center h-c-screen">
-        <h1 className="bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500">
+        <h1 className="font-extrabold ">
           Our products
         </h1>
       </div>
