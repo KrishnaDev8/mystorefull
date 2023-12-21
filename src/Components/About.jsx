@@ -86,9 +86,8 @@ export default function About() {
   
                 <a
                   href="#"
-                  className="bg-gradient-to-r from-pink-600 to-white-200 hover:from-white-200 hover:to-sky-600
-  Hover meinline-block rounded-md border border-transparent">
-                >
+                  className="bg-gradient-to-r from-pink-600 to-white-200 hover:from-white-200 hover:to-sky-600 rounded-md border border-transparent"
+                
                   Shop Now
                 </a>
               </div>
