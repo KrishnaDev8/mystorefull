@@ -51,9 +51,9 @@ export default function Home() {
       <main>
       <About />
       <div className="flex-center mt-10 justify-center justify-items-center h-c-screen">
-      <h2  className="text-center text-heading-1/h1 text-red-600">
+      <h1  className="bg-gradient-to-r from-red-200 to-pink-800 text-center text-heading-1/h1 text-red-600">
           Our products
-        </h2>
+        </h1>
       </div>
       <div
         className="mt-10 mr-10 ml-10 grid grid-cols-1 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 
